@@ -1,4 +1,4 @@
-👋 Hi, I’m @hypmandev — A Passionate Back-End Developer
+👋 Hi, I’m Anthony Ofemdu Aimudo — A Passionate Back-End Developer
 
 - 👀 I’m interested in collaborating on impactful tech projects that solve real-world problems  
 - 🌱 I’m currently deepening my skills in *JavaScript (Node.js)*, *Express*, *MongoDB*, *MySQL*, *JWT Auth*, and *API integration*  
